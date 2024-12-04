@@ -1,4 +1,4 @@
-# Use Bart for Query Suggestions
+# Use Bart for Query Generations
 Replicate codes for Transformers for Query Suggestion
 
 https://dl.acm.org/doi/10.1145/3470562
